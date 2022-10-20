@@ -1,4 +1,7 @@
 # html
 <p>Contains live date-time.html with internal style and java script.<br>
 Contains live watch.html with internal style and java script.<br>
-Contains live watch2.html with an index.css (style) and an index.js (java script).</p>
+Contains live watch2.html with an index.css (style) and an index.js (java script).</p><br>
+<p>Contains range_slider.html (with internal style and javascript).<br>
+TBD<br>
+TBD</p>
