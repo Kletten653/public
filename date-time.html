@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+  <style>
+    #time {
+      text-align: center;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+<!--- Code under prints the live DATE AND TIME -->
+<h1>Live Time is: <span id="time">16.10.2022 - 18:39:33</span></h1>
+
+<script>
+var datetime = new Date();
+console.log(datetime);
+document.getElementById("time").textContent = datetime; //it will print on html page
+
+function refreshTime() {
+  const timeDisplay = document.getElementById("time");
+  const dateString = new Date().toLocaleString();
+  const formattedString = dateString.replace(", ", " - ");
+  timeDisplay.textContent = formattedString;
+}
+setInterval(refreshTime, 1000);
+</script>
+</body>
+</html>
