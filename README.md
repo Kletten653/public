@@ -5,5 +5,5 @@ Contains live watch2.html with an index.css (style) and an index.js (java script
 <p>Contains range_slider.html (with internal style and javascript).<br>
 Contains text-to-file.html (save to your Downloads)(with internal style and javascript).<br>
 Contains get-uuid.html (print UUID)(with internal style and javascript).<br>
-Contains get-id.html (print ID)(with internal style and javascript).</p>
+Contains get-trxid.html (print ID)(with internal style and javascript).</p>
 <p>https://github.com/mdn/learning-area</p> 
