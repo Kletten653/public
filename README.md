@@ -6,3 +6,5 @@ Contains live watch2.html with an index.css (style) and an index.js (java script
 Contains get-uuid.html (print UUID)(with internal style and javascript).<br>
 Contains get-trxid.html (print ID)(with internal style and javascript).</p>
 <p>https://github.com/mdn/learning-area</p> 
+
+<p>https://en.cppreference.com/w/cpp/container/vector</p>
